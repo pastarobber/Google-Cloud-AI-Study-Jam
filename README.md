@@ -1,1 +1,2 @@
-"# Google Cloud AI Study Jam"   # 파일 내용 추가
+https://www.coursera.support/s/article/learner-360004181372-Solve-problems-with-Qwiklabs?language=en_US#quota_exceeded
+
