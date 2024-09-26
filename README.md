@@ -1,2 +1,1 @@
-"# Google Cloud AI Study Jam"   # ÆÄÀÏ ³»¿ë Ãß°¡
-"# Google Cloud AI Study Jam"   # ÆÄÀÏ ³»¿ë Ãß°¡
+"# Google Cloud AI Study Jam"   # íŒŒì¼ ë‚´ìš© ì¶”ê°€
